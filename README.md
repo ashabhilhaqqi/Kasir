@@ -16,5 +16,5 @@ Aplikasi ini dibangun mengunakan:
 - Bootstrap
 - SQL
 ## Lgogin
-Uername : dino
-Password : zee
+- Uername : dino
+- Password : zee
