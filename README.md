@@ -15,6 +15,6 @@ Aplikasi ini dibangun mengunakan:
 - PHP
 - Bootstrap
 - SQL
-## Lgogin
+## Login
 - Uername : dino
 - Password : zee
